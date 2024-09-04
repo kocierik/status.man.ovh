@@ -4,9 +4,9 @@
     "url": "https://man.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/man.ovh.ico",
     "slug": "man-ovh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 754,
     "timeYear": 716,
     "dailyMinutesDown": {
+      "2024-09-04": 0,
       "2024-07-03": 27
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://immich.man.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/immich.man.ovh.ico",
     "slug": "immich",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -36,6 +37,7 @@
     "timeMonth": 688,
     "timeYear": 676,
     "dailyMinutesDown": {
+      "2024-09-04": 0,
       "2024-07-03": 27
     }
   },
@@ -44,7 +46,7 @@
     "url": "https://pairdrop.man.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/pairdrop.man.ovh.ico",
     "slug": "pairdrop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,6 +58,7 @@
     "timeMonth": 970,
     "timeYear": 932,
     "dailyMinutesDown": {
+      "2024-09-04": 0,
       "2024-07-03": 27
     }
   }

@@ -4,10 +4,10 @@
     "url": "https://man.ovh",
     "icon": "https://icons.duckduckgo.com/ip3/man.ovh.ico",
     "slug": "man-ovh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.89%",
     "time": 717,
@@ -16,6 +16,7 @@
     "timeMonth": 714,
     "timeYear": 717,
     "dailyMinutesDown": {
+      "2024-10-06": 1,
       "2024-10-02": 20,
       "2024-09-04": 108,
       "2024-07-03": 27
